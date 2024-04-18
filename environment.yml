@@ -396,4 +396,3 @@ dependencies:
       - torchaudio==2.2.0+cu118
       - torchvision==0.17.0+cu118
       - triton==2.2.0
-prefix: /home/sona/anaconda3/envs/md
